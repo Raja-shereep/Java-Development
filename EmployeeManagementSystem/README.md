@@ -55,10 +55,7 @@ EmployeeManagementSystem/
 
 └── .gitignore
 
-pgsql
-Copy code
 
----
 
 ## ⚙️ Database Setup
 
@@ -100,12 +97,19 @@ javac -cp "lib/mysql-connector-j-8.0.xx.jar" src/*.java -d bin
 java -cp "bin;lib/mysql-connector-j-8.0.xx.jar" Main
 💡 Key Concepts Demonstrated
 Concept	Description
-JDBC Connection	Connect Java to MySQL
+
+JDBC Connection	    Connect Java to MySQL
+
 PreparedStatement	Prevent SQL injection
-Transactions	Commit/Rollback mechanism
+
+Transactions	    Commit/Rollback mechanism
+
 Batch Processing	Efficient multi-inserts
-Metadata	Extract database and result info
-BLOB Handling	Store and retrieve images
+
+Metadata	        Extract database and result info
+
+BLOB Handling	    Store and retrieve images
+
 
 
 
