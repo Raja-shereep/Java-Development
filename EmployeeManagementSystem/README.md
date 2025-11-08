@@ -34,15 +34,25 @@ This project demonstrates how to connect Java applications with relational datab
 
 EmployeeManagementSystem/
 │
+
 ├── src/
+
 │ ├── EmployeeCrud.java # Handles all database logic (CRUD, Transaction, Batch, BLOB, Metadata)
+
 │ └── Main.java # Menu-driven console UI for the system
+
 │
+
 ├── lib/
+
 │ └── mysql-connector-j-8.0.xx.jar # MySQL JDBC Driver
+
 │
+
 ├── db_script.sql # SQL script to create database & table
+
 ├── README.md # Project documentation
+
 └── .gitignore
 
 pgsql
@@ -111,18 +121,4 @@ ID | Name        | Salary    | Balance   | Photo
 Java Developer | B.Tech (CSE) | GATE Aspirant
 
 🔗 LinkedIn Profile
-📧 raja.shereep@example.com
-
-🏆 Future Enhancements
-Add login authentication (admin/user)
-
-Build a GUI using JavaFX or Swing
-
-Convert to a web app using Servlets/JSP or Spring Boot
-
-Add CSV/Excel export feature for employee data
-
-Implement connection pooling (HikariCP)
-
-💬 Summary for Resume
-Employee Management System (Java + JDBC + MySQL) — Developed a console-based backend application supporting CRUD operations, transactions, image storage, and batch processing using JDBC. Implemented transaction control, prepared statements, and database metadata extraction for optimized data handling.
+📧 rshereep23@gmail.com
