@@ -95,8 +95,10 @@ bash
 Copy code
 javac -cp "lib/mysql-connector-j-8.0.xx.jar" src/*.java -d bin
 java -cp "bin;lib/mysql-connector-j-8.0.xx.jar" Main
+
+
 💡 Key Concepts Demonstrated
-Concept	Description
+
 
 JDBC Connection	    - Connect Java to MySQL
 
@@ -115,7 +117,8 @@ BLOB Handling	    - Store and retrieve images
 
 🧾 About the Author
 👨‍💻 Raja Shereep M
-Java Developer | B.Tech (CSE) | GATE Aspirant
+Aspiring Java Developer | 
 
 🔗 https://www.linkedin.com/in/raja-shereep-m/
+
 📧 rshereep23@gmail.com
