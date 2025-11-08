@@ -107,18 +107,11 @@ Batch Processing	Efficient multi-inserts
 Metadata	Extract database and result info
 BLOB Handling	Store and retrieve images
 
-🧠 Sample Output
-markdown
-Copy code
----------------------------------------------
-ID | Name        | Salary    | Balance   | Photo
----------------------------------------------
-1  | Raja        | 55000.00  | 2000.00   | Yes
-2  | Shereep     | 60000.00  | 2500.00   | No
----------------------------------------------
+
+
 🧾 About the Author
 👨‍💻 Raja Shereep M
 Java Developer | B.Tech (CSE) | GATE Aspirant
 
-🔗 LinkedIn Profile
+🔗 https://www.linkedin.com/in/raja-shereep-m/
 📧 rshereep23@gmail.com
